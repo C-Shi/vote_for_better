@@ -1,0 +1,8 @@
+# Node Modules
+node_modules/
+
+#SQL file
+sql/
+
+#Environmetal variable
+.env
